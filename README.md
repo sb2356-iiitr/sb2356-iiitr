@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Soumyabrata's Github stats](https://github-readme-stats.vercel.app/api?username=sb2356-iiitr)](https://github.com/sb2356-iiitr/github-readme-stats)
+
 <!--
 **sb2356-iiitr/sb2356-iiitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
